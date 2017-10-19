@@ -1,0 +1,58 @@
+.nuestras_coders{
+	position:relative;
+	left: 15px;
+	
+}
+.nuestras_coders h1{
+	font-size: 20px;
+
+}
+.nuestras_coders h2{
+	width: 50px;
+	border-bottom:5px solid black;
+	position: absolute;
+	top:10px;
+}
+.coders{
+	height: 150px;
+	width: 180px;
+	background-color:#D1CFCF;
+	margin:7px;
+	opacity: 0.5;
+	box-shadow: 5px 5px 1px #7C7B7B;
+}
+.codersnames{
+	position: absolute;
+	left: 70px;
+	top:165px;
+	color:white;
+	font-weight: bold;
+}
+#coder2name{
+	left: 265px;
+	top:165px;
+}
+#coder3name{
+	left: 460px;
+	top: 165px;
+}
+#coder4name{
+	left: 70px;
+	top:335px;
+}
+#coder5name{
+	left: 265px;
+	top:335px;
+}
+#coder6name{
+	left: 460px;
+	top:335px;
+}
+#coder1,#coder2,#coder4,#coder5{
+	float: left;
+}
+.coders:hover{
+	opacity: 1.0;
+	cursor: zoom-in;
+	box-shadow: ;
+}
